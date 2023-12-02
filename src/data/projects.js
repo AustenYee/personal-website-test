@@ -15,7 +15,7 @@ const data = [
   {
     title: "Cyber-Check",
     subtitle: "App created for cybersecurity response and reaction",
-    image: "/images/projects/CyberCheck.png",
+    image: "/images/projects/CyberCheck.PNG",
     date: "2022-09-20",
     desc:
       "Conceived, crafted, and executed a cutting-edge mobile application compatible with both Android and Apple devices. " +
@@ -26,7 +26,7 @@ const data = [
   {
     title: "No Name",
     subtitle: "Website for Vendia Testing",
-    image: "/images/projects/spacepotato.jpg",
+    image: "/images/projects/fda.jpg",
     date: "2022-06-28",
     desc:
       "My team and I played a key role in developing a sophisticated website to evaluate Vendia software functionality. " +

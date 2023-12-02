@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://austenyee.github.io/personal-website-test",
+  "homepage": "https://austenyeeweb.site",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/austenyee/personal-website-test.git"
   },
   "engines": {
     "node": ">=16.x"
